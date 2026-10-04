@@ -3,8 +3,8 @@
 Dự án DevOps thực hành quản lý mã nguồn với Git.
 
 ## Giới thiệu
-Phiên bản khởi tạo ban đầu: v1.0.0.
-Hệ thống hỗ trợ quản lý quy trình triển khai tự động.
+Phiên bản cập nhật chính thức trên main: v1.0.1-stable.
+Hệ thống cập nhật tài liệu hướng dẫn triển khai trên Kubernetes cluster.
 
 ## Tác giả
 - Nhóm phát triển DevOps.

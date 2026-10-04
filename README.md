@@ -3,8 +3,9 @@
 Dự án DevOps thực hành quản lý mã nguồn với Git.
 
 ## Giới thiệu
-Phiên bản cập nhật chính thức trên main: v1.0.1-stable.
-Hệ thống cập nhật tài liệu hướng dẫn triển khai trên Kubernetes cluster.
+Phiên bản tích hợp hoàn chỉnh (Merge Conflict Resolved):
+- Phiên bản: v1.1.0 (kết hợp tính năng từ `feature-update` và tài liệu từ `main`).
+- Hệ thống hỗ trợ Docker containerization, CI/CD pipeline và tài liệu hướng dẫn triển khai trên Kubernetes cluster.
 
 ## Tác giả
 - Nhóm phát triển DevOps.
